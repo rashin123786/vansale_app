@@ -1,16 +1,32 @@
-# vansale_app
+📱 Van Sale Mobile App (Flutter)
 
-A new Flutter project.
+A Flutter-based mobile application developed as part of a technical assignment. The app demonstrates API integration, clean architecture, and a complete sales flow including customer selection, product listing, and invoice creation.
 
-## Getting Started
+🚀 Features
+🔐 User Authentication (Login API)
+📊 Dashboard Overview
+👥 Customer Listing & Selection
+🛍️ Product Listing & Details
+🧾 Create Invoice (Van Sale)
+📄 Invoice List View
+🔄 API Integration with proper error handling
+📱 Responsive UI
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+🧑‍💻 Tech Stack
+Flutter
+Dart
+BLoC
+Clean Architecture
+REST API Integration
+Dio
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+📱 Screens Implemented
+Login Screen
+Dashboard
+Customer List
+Select Customer
+Product List
+Select Product
+Create Invoice
+Invoice List
